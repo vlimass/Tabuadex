@@ -1,3 +1,5 @@
+// Modificação em um arquivo diferente
+
 var clickCount = 1
 function calc(){
     var txtn1 = window.document.getElementById('n1')
